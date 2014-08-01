@@ -1,7 +1,7 @@
-nino
+nino-cli
 ====
 
-Command line tool for arduino.  This is a standalone project, so the Arduino IDE is *not* required.
+Command line wrapper for Nino.
 
 **warning**:  This is not yet a 1.0 release.  It should not be considered stable.  Right now only 64 bit Mac is supported.
 
